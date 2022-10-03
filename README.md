@@ -9,3 +9,7 @@ Inha Univ, project. wafer map defect using DL
   and move it to raw_data
 - Wafer_Map_Datasets.npz from https://www.kaggle.com/co1d7era/mixedtype-wafer-defect-datasets  
   and move it to raw_data
+
+# Please run
+- preprocess wm811k
+- preprocess wm38k
